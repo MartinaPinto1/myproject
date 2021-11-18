@@ -1,1 +1,2 @@
-Hello ...this is test file created to test working of git.
+Hello ...this is test file created to test working of git.\
+changes in the master.
